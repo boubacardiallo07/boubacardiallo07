@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on open source
 
-- 📫 How to reach me **boubacardiallau@gmail.com**
+- 📫 How to contact me : **boubacardiallau@gmail.com**
 
 - ⚡ Fun fact **I say chocolatine 🤣🤣**
 
@@ -38,8 +38,8 @@
 ### Connect with me:
 
 <a href = "https://www.linkedin.com/in/boubacar-diallau/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "/"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "(mailto:boubacardiallau@gmail.com)"> <img src="https://img.icons8.com/color/48/000000/gmail.png"/> </a>
+<a href = "https://twitter.com/citizen_o_the_w"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com//"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 <br />
