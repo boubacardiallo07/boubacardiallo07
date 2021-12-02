@@ -1,8 +1,17 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Boubacar </h1>
 <h3 align="center">I'm a Software Developer ! </h3>
 
-- 🔭 I’m currently working on few personal projects !
-- 🌱 I’m currently learning everything 🤣
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://)**
+
+- 🌱 I’m currently learning Spring Boot and Azure
+
+- 🔭 I’m currently working on a project of a system for collecting and analyzing tweets with hadoop and spark
+
+- 👯 I’m looking to collaborate on open source
+
+- 📫 How to reach me **boubacardiallau@gmail.com**
+
+- ⚡ Fun fact **I say chocolatine 🤣🤣**
 
 
 <h3 align="left">Languages and Tools:</h3>
