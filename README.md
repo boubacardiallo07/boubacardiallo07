@@ -1,20 +1,20 @@
-<h1 align="center">Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Boubacar </h1>
-<h3 align="center">I'm a computer science master's student at the University of Bordeaux, specializing in software engineering. </h3>
+<h1 align="center">Salut, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h3 align="center">Je m'appelle Boubacar, étudiant en master informatique, spécialité génie logiciel à l'Université de Bordeaux. Je suis très curieux et passionné d'informatique et de nouvelles technologies </h3>
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://)**
+- 👨‍💻 Tous mes projets sont disponibles sur **[My Portfolio](https://)**
 
-- 🌱 I’m currently learning Spring Boot and Azure
+- 🌱 J'apprends actuellement Spring Boot et Azure
 
-- 🔭 I’m currently working on a project of a system for collecting and analyzing tweets with hadoop and spark
+- 🔭 Je travaille actuellement sur un projet de système de collecte et d'analyse de tweets avec hadoop et spark
 
-- 👯 I’m looking to collaborate on open source
+- 👯 Je cherche à collaborer sur l'open source
 
-- 📫 How to contact me : **boubacardiallau@gmail.com**
+- 📫 Comment me contacter : **boubacardiallau@gmail.com**
 
-- ⚡ Fun fact **I say chocolatine 🤣🤣**
+- ⚡ Fait amusant **je dis chocolatine 🤣🤣**
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Langages et technologies:</h3>
 
 <p align="left"> 
     <a href="https://www.java.com" target="/"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -35,7 +35,7 @@
 </p>
 
 
-### Connect with me:
+### Connectez-vous avec moi :
 
 <a href = "https://www.linkedin.com/in/boubacar-diallau/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "(mailto:boubacardiallau@gmail.com)"> <img src="https://img.icons8.com/color/48/000000/gmail.png"/> </a>
