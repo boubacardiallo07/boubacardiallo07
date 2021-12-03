@@ -1,4 +1,4 @@
-<h1 align="center">Salut, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1 align="center">Salut <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h3 align="center">Je m'appelle Boubacar, étudiant en master informatique, spécialité génie logiciel à l'Université de Bordeaux. Je suis très curieux et passionné d'informatique et de nouvelles technologies </h3>
 
 - 👨‍💻 Tous mes projets sont disponibles sur **[My Portfolio](https://)**
