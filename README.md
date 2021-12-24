@@ -11,7 +11,7 @@
 
 - 📫 Comment me contacter : **boubacardiallau@gmail.com**
 
-[//]: # - ⚡ Fait amusant **je dis chocolatine 🤣🤣**
+[//]: # (- ⚡ Fait amusant **je dis chocolatine 🤣🤣**)
 
 
 <h3 align="left">Langages et technologies:</h3>
