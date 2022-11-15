@@ -19,7 +19,6 @@
 <p align="left"> 
     <a href="https://www.java.com" target="/"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.python.org" target="/"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://www.java.com" target="/"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
     <a href="https://reactjs.org/" target="/"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="/"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="/"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -39,7 +38,7 @@
 
 <a href = "https://www.linkedin.com/in/boubacar-diallau/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "(mailto:boubacardiallau@gmail.com)"> <img src="https://img.icons8.com/color/48/000000/gmail.png"/> </a>
-<a href = "https://twitter.com/citizen_o_the_w"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com//"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 <br />
