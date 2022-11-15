@@ -18,7 +18,7 @@
 
 <p align="left"> 
     <a href="https://www.java.com" target="/"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://angular.io/" target="/"> <img src="https://user-images.githubusercontent.com/43594550/201903292-8026db34-12b2-4921-9b84-e0fb39b4e60a.png"/> </a>
+    <a href="https://angular.io/" target="/"> <img src="https://img.icons8.com/color/48/000000/angular.png"/> </a>
     <a href="https://www.python.org" target="/"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://reactjs.org/" target="/"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="/"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
