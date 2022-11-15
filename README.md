@@ -18,6 +18,7 @@
 
 <p align="left"> 
     <a href="https://www.java.com" target="/"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://angular.io/" target="/"> <img src="https://icons8.com/icon/71257/angularjs.png"/> </a>
     <a href="https://www.python.org" target="/"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://reactjs.org/" target="/"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="/"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
@@ -37,7 +38,7 @@
 ### Connectez-vous avec moi :
 
 <a href = "https://www.linkedin.com/in/boubacar-diallau/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "(mailto:boubacardiallau@gmail.com)"> <img src="https://img.icons8.com/color/48/000000/gmail.png"/> </a>
+<a href = "mailto:boubacardiallau@gmail.com/"> <img src="https://img.icons8.com/color/48/000000/gmail.png"/> </a>
 <a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
